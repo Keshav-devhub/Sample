@@ -1,2 +1,2 @@
 # Sample
-This is my forst Git Respository.
+This is my first Git Respository.
